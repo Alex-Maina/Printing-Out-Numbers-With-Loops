@@ -11,5 +11,6 @@ Use a loop from 1 to 100 and:
 5) Print the numbers that are equal to the square of the sum of its digits
 
 
-The most optimum code is found in
+The most optimum code is found in Printing_numbers_with_loops.py (https://github.com/Alex-Maina/Printing-Out-Numbers-With-Loops/blob/main/Printing_numbers_with_loops.py)
+
 The exercise.py file (https://github.com/Alex-Maina/Printing-Out-Numbers-With-Loops/blob/main/exercise.py) contains segmented code of each condition just to facilitate understanding. 
